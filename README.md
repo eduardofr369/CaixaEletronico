@@ -1,2 +1,6 @@
 # CaixaEletronico
-Repositório que simula um caixa eletrônico usando python. Dito isso, Valorant > CS, Dota > lol, 
+Repositório que simula um caixa eletrônico usando python. Dito isso, Valorant > CS, Dota > lol.
+
+# Notas importantes
+
+- Não há.
